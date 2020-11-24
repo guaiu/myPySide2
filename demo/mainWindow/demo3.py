@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# demo3 使用ui代码实现界面和逻辑的分离
+# demo3 使用ui代码实现界面和逻辑的源代码分离
 
 import sys
 from PySide2.QtWidgets import QApplication,QMainWindow,QFileDialog
